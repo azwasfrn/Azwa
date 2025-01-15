@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="border_error">#ffdc362e</color>
+    <color name="border_warning">#fffd9726</color>
+    <color name="border_success">#ff21d05d</color>
+    <color name="color">#ffffffff</color>
+
+
+    <color name="colors_blue_purple_primary_50">#ffe9eaf5</color>
+    <color name="colors_blue_purple_primary_100">#ffc2c4e0</color>
+    <color name="colors_blue_purple_primary_200">#ffa3a6d0</color>
+    <color name="colors_blue_purple_primary_300">#ff697ac8</color>
+    <color name="colors_blue_purple_primary_400">#ff5661ba</color>
+    <color name="colors_blue_purple_primary_500">#ff484ea2</color>
+    <color name="colors_blue_purple_primary_600">#ff42458b</color>
+    <color name="colors_blue_purple_primary_700">#ff3d428c</color>
+    <color name="colors_blue_purple_primary_800">#ff343875</color>
+    <color name="colors_blue_purple_primary_900">#ff262745</color>
+
+    <color name="colors_fuchsia_secondary_50">#ffffecf8</color>
+    <color name="colors_fuchsia_secondary_100">#fffeccf2</color>
+    <color name="colors_fuchsia_secondary_200">#ffffa2e7</color>
+    <color name="colors_fuchsia_secondary_300">#fffe68d3</color>
+    <color name="colors_fuchsia_secondary_400">#fff93bbe</color>
+    <color name="colors_fuchsia_secondary_500">#ffdf0c8d</color>
+    <color name="colors_fuchsia_secondary_600">#ffc60d7e</color>
+    <color name="colors_fuchsia_secondary_700">#ffa50c69</color>
+    <color name="colors_fuchsia_secondary_800">#ff8b1059</color>
+    <color name="colors_fuchsia_secondary_900">#ff560134</color>
+
+    <color name="colors_sky_blue_tertiary_50">#ffeff9ff</color>
+    <color name="colors_sky_blue_tertiary_100">#ffdff3ff</color>
+    <color name="colors_sky_blue_tertiary_200">#ffb7e9ff</color>
+    <color name="colors_sky_blue_tertiary_300">#ff77d8ff</color>
+    <color name="colors_sky_blue_tertiary_400">#ff2ec6ff</color>
+    <color name="colors_sky_blue_tertiary_500">#ff03a8ea</color>
+    <color name="colors_sky_blue_tertiary_600">#ff008cd1</color>
+    <color name="colors_sky_blue_tertiary_700">#ff006fa9</color>
+    <color name="colors_sky_blue_tertiary_800">#ff015e8b</color>
+    <color name="colors_sky_blue_tertiary_900">#ff074e73</color>
+
+    <color name="colors_success_100">#fff0fdf4</color>
+    <color name="colors_success_200">#ffe9ffe5</color>
+    <color name="colors_success_300">#ff21d05d</color>
+    <color name="colors_success_400">#ff13823a</color>
+
+    <color name="colors_orange_100">#fffff9ed</color>
+    <color name="colors_orange_200">#fffedfbc</color>
+    <color name="colors_orange_300">#fffd9726</color>
+    <color name="colors_orange_400">#ffee7208</color>
+
+    <color name="colors_red_100">#fffef2f2</color>
+    <color name="colors_red_200">#ffffe9ea</color>
+    <color name="colors_red_300">#ffdc362e</color>
+    <color name="colors_red_400">#ffb8241d</color>
+
+    <color name="colors_blue_100">#fff0f9ff</color>
+    <color name="colors_blue_200">#ffe5f4ff</color>
+    <color name="colors_blue_300">#ff1677ff</color>
+    <color name="colors_blue_400">#ff0f4abe</color>
+
+    <color name="colors_grey_neutral_100">#fff9f9fa</color>
+    <color name="colors_grey_neutral_200">#fff2f5f7</color>
+    <color name="colors_grey_neutral_300">#ffd2d7da</color>
+    <color name="colors_grey_neutral_400">#ffd1d1d6</color>
+    <color name="colors_grey_neutral_500">#ffa3a3a3</color>
+    <color name="colors_grey_neutral_600">#ff5a5c5e</color>
+    <color name="colors_grey_neutral_700">#ff545454</color>
+    <color name="colors_grey_neutral_800">#ff363636</color>
+    <color name="colors_grey_neutral_900">#ff232323</color>
+
+    <color name="colors_black_white_white">#ffffffff</color>
+    <color name="colors_black_white_black">#ff232323</color>
+
+
+
+
+
+
+
+
+    <color name="core_white">#ffffffff</color>
+    <color name="core_black">#ff232323</color>
+
+
+    <color name="border_extensions_border_error">#ffdc362e</color>
+    <color name="border_extensions_border_warning">#fffd9726</color>
+    <color name="border_extensions_border_success">#ff21d05d</color>
+    <color name="border_extensions_border_info">#ff1677ff</color>
+    <color name="border_extensions_border_grey">#ffd1d1d6</color>
+
+    <color name="border_danger_danger">#ffdc362e</color>
+
+    <color name="border_primary_primary">#ff484ea2</color>
+
+    <color name="border_secondary_secondary">#ffdf0c8d</color>
+
+    <color name="border_tertiary_tertiary">#ff03a8ea</color>
+
+    <color name="border_success_success">#ff21d05d</color>
+
+    <color name="border_disabled_disabled">#ffd1d1d6</color>
+
+    <color name="border_warning_warning">#fffd9726</color>
+
+    <color name="border_neutral_neutral">#ffa3a3a3</color>
+
+    <color name="border_info_info">#ff1677ff</color>
+
+    <color name="text_text_primary">#ff484ea2</color>
+    <color name="text_text_secondary">#ffdf0c8d</color>
+    <color name="text_text_tertiary">#ff03a8ea</color>
+    <color name="text_text_succes">#ff21d05d</color>
+    <color name="text_text_danger">#ffdc362e</color>
+    <color name="text_text_warning">#fffd9726</color>
+    <color name="text_text_info">#ff1677ff</color>
+    <color name="text_text_disabled">#ffa3a3a3</color>
+    <color name="text_text_white">#ffffffff</color>
+    <color name="text_text_black">#ff232323</color>
+
+
+    <color name="button_primary_button_filled_enable">#ff484ea2</color>
+    <color name="button_primary_button_filled_active">#ff42458b</color>
+    <color name="button_primary_button_filled_hover">#ff3d428c</color>
+
+    <color name="button_secondary_button_filled_enable">#ffdf0c8d</color>
+    <color name="button_secondary_button_filled_active">#ffc60d7e</color>
+    <color name="button_secondary_button_filled_hover">#ffa50c69</color>
+
+    <color name="button_tertiary_button_filled_enable">#ff03a8ea</color>
+    <color name="button_tertiary_button_filled_active">#ff008cd1</color>
+    <color name="button_tertiary_button_filled_hover">#ff006fa9</color>
+
+    <color name="button_disabled_button_filled_disabled">#ffd1d1d6</color>
+
+    <color name="icon_icon_primary">#ff484ea2</color>
+    <color name="icon_icon_secondary">#ffdf0c8d</color>
+    <color name="icon_icon_tertiary">#ff03a8ea</color>
+    <color name="icon_icon_succes">#ff21d05d</color>
+    <color name="icon_icon_danger">#ffdc362e</color>
+    <color name="icon_icon_warning">#fffd9726</color>
+    <color name="icon_icon_info">#ff1677ff</color>
+    <color name="icon_icon_disabled">#ffa3a3a3</color>
+    <color name="icon_icon_white">#ffffffff</color>
+    <color name="icon_icon_black">#ff232323</color>
+
+    <color name="surface_surface_primary">#ffe9eaf5</color>
+    <color name="surface_surface_secondary">#ffffecf8</color>
+    <color name="surface_surface_tertiary">#ffeff9ff</color>
+    <color name="surface_surface_succes">#ffe9ffe5</color>
+    <color name="surface_surface_danger">#ffffe9ea</color>
+    <color name="surface_surface_warning">#ffffe9ea</color>
+    <color name="surface_surface_info">#ffe5f4ff</color>
+    <color name="surface_surface_neutral">#fff2f5f7</color>
+    <color name="surface_surface_disabled">#ffd1d1d6</color>
+
+
+</resources>
